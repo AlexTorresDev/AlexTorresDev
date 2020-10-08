@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am a person who likes to learn new things about technology and programming languages. You can give me a shout out [@AlexTorresSk](https://twitter.com/AlexTorresSk) or give some ♥ on [mail](mailto:alextorressk@gmail.com). I’m currently working on **#Flutter** 📱 and **#Angular**. 💻
+I am a person who likes to learn new things about technology and programming languages. You can give me a shout out [@AlexTorresSk](https://twitter.com/AlexTorresSk) or give some ♥ on [mail](mailto:contacto@alextorressk.com). I’m currently working on **#Flutter** 📱 and **#Angular**. 💻
 
 <p align='center'>
 <a href="https://twitter.com/AlexTorresSk"><img height="30" src="https://github.com/AlexTorresSk/AlexTorresSk/blob/master/twitter_logo.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/alextorres.sk/"><img height="30" src="https://github.com/AlexTorresSk/AlexTorresSk/blob/master/instagram_logo.png"></a>&nbsp;&nbsp;
 </p>
 
 #### What I want to learn
