@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am a person who likes to learn new things about technology and programming languages. You can give me a shout out [@AlexTorresSk](https://twitter.com/AlexTorresSk) or give some ♥ on [mail](mailto:contacto@alextorressk.com). I’m currently working on **#Flutter** 📱 and **#Angular**. 💻
+I am a person who likes to research, learn and teach about new things in technology, internet of things, artificial intelligence, computer security and programming languages. I use frameworks like Angular, Spring Boot and Flutter. I have handled different programming languages such as **C++, Java, Javascript, Typescript, among others**. Databases such as **Oracle, MySQL, PostgreSQL, and MongoDB**.
+I am currently working on several mobile projects using the **Flutter** :iphone: Framework and some web with **Angular** :computer:. I am also learning **React and NodeJS**.
+
+You can give me a shout out [@AlexTorresSk](https://twitter.com/AlexTorresSk) or give some :heart: on [mail](mailto:contacto@alextorressk.com).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AlexTorresSk?logo=twitter&color=blue&style=flat-square)](https://twitter.com/AlexTorresSk)
 
