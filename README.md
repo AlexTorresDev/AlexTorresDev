@@ -5,7 +5,7 @@ I am currently working on several mobile projects using the **Flutter** :iphone:
 
 You can give me a shout out [@AlexTorresSk](https://twitter.com/AlexTorresSk) or give some :heart: on [mail](mailto:contacto@alextorressk.com).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AlexTorresSk?logo=twitter&color=blue&style=flat-square)](https://twitter.com/AlexTorresSk)
+[![Twitter](https://img.shields.io/twitter/follow/AlexTorresSk?color=16825a&label=Twitter&logo=twitter&logoColor=16825a&style=flat-square)](https://twitter.com/AlexTorresSk)
 
 #### What I want to learn
 - [#GoLang](https://github.com/golang)
