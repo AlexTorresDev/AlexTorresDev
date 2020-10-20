@@ -16,5 +16,3 @@ You can give me a shout out [@AlexTorresSk](https://twitter.com/AlexTorresSk) or
 
 #### My NPM Package:
 ![Custom Electron Titlebar](https://github-readme-stats.vercel.app/api/pin/?username=AlexTorresSk&repo=custom-electron-titlebar&hide_border=true&theme=vue)
-
-<sub><a style="font-size: 10px" href='https://www.freepik.es/vectores/logo'>Logo vector created by BiZkettE1 - www.freepik.es</a></sub>
