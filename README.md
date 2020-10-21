@@ -11,7 +11,7 @@ You can give me a shout out [@AlexTorresSk](https://twitter.com/AlexTorresSk) or
 - [#GoLang](https://github.com/golang)
 - [#React](https://github.com/facebook/react)
 
-![Alex Torres's github stats](https://github-readme-stats.vercel.app/api?username=alextorressk&show_icons=true&hide_border=true&theme=vue&custom_title=Greep%27s%20Stats:)
+![Alex Torres's github stats](https://github-readme-stats.vercel.app/api?username=alextorressk&show_icons=true&hide_border=true&theme=vue&custom_title=Alex%27s%20Stats:)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextorressk&layout=compact&hide_border=true&theme=vue)
 
 #### My NPM Package:
