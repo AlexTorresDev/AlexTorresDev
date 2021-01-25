@@ -11,8 +11,8 @@ You can give me a shout out [@AlexTorresSk](https://twitter.com/AlexTorresSk) or
 - [#GoLang](https://github.com/golang)
 - [#React](https://github.com/facebook/react)
 
-![Alex Torres's github stats](https://github-readme-stats.vercel.app/api?username=alextorressk&show_icons=true&hide_border=true&theme=vue&custom_title=Alex%27s%20Stats:)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextorressk&layout=compact&hide_border=true&theme=vue)
+![Alex Torres's github stats](https://github-readme-stats.vercel.app/api?username=alextorressk&show_icons=true&hide_border=true&theme=dark&custom_title=Alex%27s%20Stats:)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextorressk&layout=compact&hide_border=true&theme=dark)
 
 #### My NPM Package:
-![Custom Electron Titlebar](https://github-readme-stats.vercel.app/api/pin/?username=AlexTorresSk&repo=custom-electron-titlebar&hide_border=true&theme=vue)
+![Custom Electron Titlebar](https://github-readme-stats.vercel.app/api/pin/?username=AlexTorresSk&repo=custom-electron-titlebar&hide_border=true&theme=dark)
