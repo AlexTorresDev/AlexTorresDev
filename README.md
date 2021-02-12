@@ -15,4 +15,6 @@ You can give me a shout out [@AlexTorresSk](https://twitter.com/AlexTorresSk) or
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextorressk&layout=compact&hide_border=true&theme=dark)
 
 #### My NPM Package:
-![Custom Electron Titlebar](https://github-readme-stats.vercel.app/api/pin/?username=AlexTorresSk&repo=custom-electron-titlebar&hide_border=true&theme=dark)
+<a title="Custom Electron Titlebar" href="https://github.com/AlexTorresSk/custom-electron-titlebar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexTorresSk&repo=custom-electron-titlebar&hide_border=true&theme=dark" alt="Custom Electron Titlebar">
+</a>
