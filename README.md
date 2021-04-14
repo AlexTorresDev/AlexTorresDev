@@ -3,17 +3,22 @@
 I am a person who likes to research, learn and teach about new things in technology, internet of things, artificial intelligence, computer security and programming languages. I use frameworks like Angular, Spring Boot and Flutter. I have handled different programming languages such as **C++, Java, Javascript, Typescript, among others**. Databases such as **Oracle, MySQL, PostgreSQL, and MongoDB**.
 I am currently working on several mobile projects using the **Flutter** :iphone: Framework and some web with **Angular**, **React** :computer:. I am also learning **NodeJS, Microservices and Micro frontend**.
 
-You can give me a shout out [@AlexTorresSk](https://twitter.com/AlexTorresSk) or give some :heart: on [mail](mailto:contacto@alextorressk.com), also you can visit my [website](https://AlexTorresSk.com)
-
----------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Hola 👋
 Soy una persona a la que le gusta investigar, aprender y enseñar cosas nuevas en tecnología, internet de las cosas, inteligencia artificial, seguridad informática y lenguajes de programación. Utilizo frameworks como Angular, Spring Boot y Flutter. He manejado diferentes lenguajes de programación como **C++, Java, Javascript, TypeScript, entre otros**. Bases de datos como **Oracle, MySQL, PostgreSQL y MongoDB**.
 Actualmente estoy trabajando en varios proyectos móviles usando Framework **Flutter** 📱 y algo de web con **Angular**, **React** 💻. También estoy aprendiendo **NodeJS, Microservices y Micro frontend**.
 
-Puedes darme un saludo a [@AlexTorresSk](https://twitter.com/AlexTorresSk) o darme un ❤️ por [correo](mailto:contacto@alextorressk.com), también puedes visitar mi [sitio web](https://AlexTorresSk.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
----------------------------------------
+<p align="center">
+<a href="mailto:contacto@alextorressk.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/AlexTorresSk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/AlexTorresSk" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://alextorressk.com" target="_blank"><img src="https://img.shields.io/badge/-Website-1c2525?style=flat-square&logo=icloud&logoColor=white" alt="GitHub"></a>
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Languages and Tools:
 
@@ -38,10 +43,3 @@ Puedes darme un saludo a [@AlexTorresSk](https://twitter.com/AlexTorresSk) o dar
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Google Chrome](http://img.shields.io/badge/-Google%20Chrome-0F9854?style=flat-square&logo=google-chrome&logoColor=ffffff)
-
-### Contact me:
-[![Email](http://img.shields.io/badge/-contacto@alextorressk.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:contacto@alextorressk.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/AlexTorresSk)
-[![Facebook](http://img.shields.io/badge/-Facebook-3B5998?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/AlexTorresSk)
-[![Instagram](http://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/AlexTorresSk1)
-[![Website](http://img.shields.io/badge/-Website-1C2525?style=flat-square&logo=icloud&logoColor=ffffff)](https://alextorressk.com)
