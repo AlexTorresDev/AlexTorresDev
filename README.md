@@ -37,6 +37,5 @@ Actualmente estoy trabajando en varios proyectos móviles usando Framework **Flu
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Google Chrome](http://img.shields.io/badge/-Google%20Chrome-0F9854?style=flat-square&logo=google-chrome&logoColor=ffffff)
