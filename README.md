@@ -4,8 +4,6 @@
 <a href="mailto:contacto@alextorressk.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/AlexTorresSk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/AlexTorresSk" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://alextorressk.com" target="_blank"><img src="https://img.shields.io/badge/-Website-1c2525?style=flat-square&logo=icloud&logoColor=white" alt="GitHub"></a>
-</p>
 
 I am a person who likes to research, learn and teach about new things in technology, internet of things, artificial intelligence, computer security and programming languages. I use frameworks like Angular, Spring Boot and Flutter. I have handled different programming languages such as **C++, Java, Javascript, Typescript, among others**. Databases such as **Oracle, MySQL, PostgreSQL, and MongoDB**.
 I am currently working on several mobile projects using the **Flutter** :iphone: Framework and some web with **Angular**, **React** :computer:. I am also learning **NodeJS, Microservices and Micro frontend**.
