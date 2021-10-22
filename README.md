@@ -1,10 +1,13 @@
 ### Hi there 👋
-<img src="https://user-images.githubusercontent.com/45916349/138205534-af532d74-bd4b-45b4-af10-33f589e7ba97.png" alt="Banner">
-<br/>
+
 <p align="center">
+<a href="https://discord.gg/VbryQVzERd" target="_blank"><img src="https://user-images.githubusercontent.com/45916349/138205534-af532d74-bd4b-45b4-af10-33f589e7ba97.png" alt="Banner"></a>
+  
+<br/>
 <a href="mailto:contacto@alextorressk.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/AlexTorresSk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/AlexTorresSk" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
 
 
 Soy una persona a la que le gusta investigar, aprender y enseñar cosas nuevas en tecnología, internet de las cosas, inteligencia artificial, seguridad informática y lenguajes de programación. Utilizo frameworks como Angular, Spring Boot y Flutter. He manejado diferentes lenguajes de programación como **C++, Java, Javascript, TypeScript, entre otros**. Bases de datos como **Oracle, MySQL, PostgreSQL y MongoDB**.
