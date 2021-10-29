@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<a href="https://discord.gg/typPW4DcEq" target="_blank"><img src="https://user-images.githubusercontent.com/45916349/138205534-af532d74-bd4b-45b4-af10-33f589e7ba97.png" alt="Banner"></a>
+<img src="https://user-images.githubusercontent.com/45916349/138205534-af532d74-bd4b-45b4-af10-33f589e7ba97.png" alt="Banner">
   
 <br/>
 <a href="mailto:contacto@alextorressk.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
