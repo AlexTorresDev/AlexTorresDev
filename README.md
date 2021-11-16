@@ -1,14 +1,30 @@
-### Hi there 👋
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45916349/138205534-af532d74-bd4b-45b4-af10-33f589e7ba97.png" alt="Banner">
+<div align="center">
+  <h1>Hi there 👋, My name is Alex</h1>
+  <h3>A Fullstack web developer from Colombia.</h3>
   
-<br/>
-<a href="mailto:contacto@alextorressk.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/AlexTorresSk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/AlexTorresSk" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
-</p>
+  <img src="https://user-images.githubusercontent.com/45916349/138205534-af532d74-bd4b-45b4-af10-33f589e7ba97.png" alt="Banner" height="160">
+  <br><br>
+  <a href="https://github.com/AlexTorresSk" target="blank">
+    <img src="https://img.shields.io/badge/github%20-%23161b22.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
+  <a href="https://www.linkedin.com/in/AlexTorresSk/" target="blank">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.twitter.com/AlexTorresSk/" target="blank">
+    <img src="https://img.shields.io/badge/twitter%20-%231CA0F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  
+  <a href="https://discord.gg/Jhws8wBrn7" target="blank">
+    <img src="https://img.shields.io/badge/discord%20-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <a href="https://alextorressk.herokuapp.com/" target="blank">
+    <img src="https://img.shields.io/badge/website%20-%2316825A.svg?&style=for-the-badge&logoColor=white" alt="Website"/>
+  </a>
+</div>
+<br>
 
 Soy una persona a la que le gusta investigar, aprender y enseñar cosas nuevas en tecnología, internet de las cosas, inteligencia artificial, seguridad informática y lenguajes de programación. Utilizo frameworks como Angular, Spring Boot y Flutter. He manejado diferentes lenguajes de programación como **C++, Java, Javascript, TypeScript, entre otros**. Bases de datos como **Oracle, MySQL, PostgreSQL y MongoDB**.
 Actualmente estoy trabajando en varios proyectos móviles usando Framework **Flutter** 📱 y algo de web con **Angular**, **React** 💻. También estoy aprendiendo **NodeJS, Microservices y Micro frontend**.
