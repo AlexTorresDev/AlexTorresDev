@@ -4,24 +4,12 @@
   
   <img src="https://user-images.githubusercontent.com/45916349/138205534-af532d74-bd4b-45b4-af10-33f589e7ba97.png" alt="Banner" height="160">
   <br><br>
-  <a href="https://github.com/AlexTorresSk" target="blank">
-    <img src="https://img.shields.io/badge/github%20-%23161b22.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
   <a href="https://www.linkedin.com/in/AlexTorresSk/" target="blank">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="https://www.twitter.com/AlexTorresSk/" target="blank">
     <img src="https://img.shields.io/badge/twitter%20-%231CA0F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  
-  <a href="https://discord.gg/Jhws8wBrn7" target="blank">
-    <img src="https://img.shields.io/badge/discord%20-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Twitter"/>
-  </a>
-
-  <a href="https://alextorressk.herokuapp.com/" target="blank">
-    <img src="https://img.shields.io/badge/website%20-%2316825A.svg?&style=for-the-badge&logoColor=white" alt="Website"/>
   </a>
 </div>
 <br>
