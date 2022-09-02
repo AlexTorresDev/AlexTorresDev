@@ -23,4 +23,4 @@ I currently have only one project I am working on, but I will have more in the f
 
 ### 📒 Contact me
 
-See what's next on our ✉️ [mail](mailto:alextorressk@gmail.com) and  [twitter](https://twitter.com/AlexTorresSk) 
+See what's next on our ✉️ [mail](mailto:contacto@alextorressk.com) and  [twitter](https://twitter.com/AlexTorresSk) 
