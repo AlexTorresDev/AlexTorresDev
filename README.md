@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![banner-github](https://user-images.githubusercontent.com/45916349/148614513-74cec828-8c77-4c5b-b484-1b29bbbaab68.jpg)
-
 
 I am a person who likes to research, learn and teach new things in technology  and programming languages. I use frameworks like Angular, Spring Boot, and Flutter. 
 I am currently working on various mobile projects using Framework Flutter 📱 and some web with Angular, React 💻. I am also learning NodeJS, Microservices and Micro frontend.
