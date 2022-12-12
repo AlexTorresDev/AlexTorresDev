@@ -2,7 +2,7 @@
 
 
 I am a person who likes to research, learn and teach new things in technology  and programming languages. I use frameworks like Angular, Spring Boot, and Flutter. 
-I am currently working on various mobile projects using Framework Flutter 📱 and some web with Angular, React 💻. I am also learning NodeJS, Microservices and Micro frontend.
+I am currently working on various mobile projects using Framework Flutter 📱 and some web with Angular, React 💻.
 
 ### 😍 Languages I use the most
 
@@ -23,4 +23,4 @@ I currently have only one project I am working on, but I will have more in the f
 
 ### 📒 Contact me
 
-See what's next on our ✉️ [mail](mailto:contacto@alextorressk.com) and  [twitter](https://twitter.com/AlexTorresSk) 
+✉️ [contacto@alextorressk.com](mailto:contacto@alextorressk.com)
