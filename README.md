@@ -20,7 +20,3 @@ I currently have only one project I am working on, but I will have more in the f
 
 - [Custom Electron Titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) - A customizable title bar for electron
 - [PMA Material](https://github.com/AlexTorresDev/PMA-Material) - Theme material design for phpmyadmin
-
-### 📒 Contact me
-
-✉️ [contacto@alextrs.dev](mailto:contacto@alextrs.dev)
